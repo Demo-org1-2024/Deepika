@@ -1,3 +1,1 @@
-# Deepika
-My new repo
-Hello
+Hello world
